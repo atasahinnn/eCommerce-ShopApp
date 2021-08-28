@@ -1,0 +1,40 @@
+@model ShopApp.WEBUI.Models.ProductListViewModel
+
+@section MessageBox
+{
+    <div class="alert alert-warning text-center m-0">
+        You have a message!
+    </div>
+}
+
+@section Header
+{
+    <partial name="_header" />
+}
+
+
+@if (Model.Products.Count == 0)
+{
+    @await Html.PartialAsync("_alert")
+}
+else
+{
+
+<div class="row">
+    <div class="col-md-3">
+        <partial name="_search" />
+    </div>
+ 
+    <div class="col-md-9">
+    <div class="row">
+        @foreach (var product in Model.Products)
+        {
+            <div class="col-md-4">
+                @await Html.PartialAsync("_product", product)
+            </div>
+        }
+        </div>
+        </div>
+    </div>
+}    
+

@@ -1,0 +1,272 @@
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.deps.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.runtimeconfig.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.exe
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\appsettings.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\package-lock.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\package.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.exe
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.deps.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.runtimeconfig.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ref\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.Views.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.Views.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Iyzipay.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Business.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.DataAccess.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Entity.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Business.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.DataAccess.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Entity.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.AssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorAssemblyInfo.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorAssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\staticwebassets\ShopApp.WEBUI.StaticWebAssets.Manifest.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\staticwebassets\ShopApp.WEBUI.StaticWebAssets.xml
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\scopedcss\bundle\ShopApp.WEBUI.styles.css
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.TagHelpers.input.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.TagHelpers.output.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorCoreGenerate.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryCreate.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\ProductCreate.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\ProductEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\GetProductsFromRestApi.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_alert.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_layout.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_layout2.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_resultMessage.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shop\Search.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorTargetAssemblyInfo.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorTargetAssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.Views.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.csproj.CopyComplete
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ref\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.genruntimeconfig.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\appsettings.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\package-lock.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\package.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.deps.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.runtimeconfig.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.exe
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.exe
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.deps.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.runtimeconfig.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.runtimeconfig.dev.json
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ref\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.Views.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WEBUI.Views.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Iyzipay.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Business.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.DataAccess.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Entity.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Business.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.DataAccess.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.WebApi.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\bin\Debug\net5.0\ShopApp.Entity.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.AssemblyInfo.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorAssemblyInfo.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorAssemblyInfo.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\staticwebassets\ShopApp.WEBUI.StaticWebAssets.Manifest.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\staticwebassets\ShopApp.WEBUI.StaticWebAssets.xml
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\scopedcss\bundle\ShopApp.WEBUI.styles.css
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.TagHelpers.input.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.TagHelpers.output.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorCoreGenerate.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryCreate.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\ProductCreate.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\ProductEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Cart\Checkout.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\GetProductsFromRestApi.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Order\Orders.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_alert.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_layout.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_layout2.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_resultMessage.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\Shop\Search.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorTargetAssemblyInfo.cache
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.RazorTargetAssemblyInfo.cs
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.Views.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.csproj.CopyComplete
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ref\ShopApp.WEBUI.dll
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.pdb
+C:\Users\aatas\Desktop\NET CORE\Asp.Net Core MVC\ShopApp\ShopApp.WEBUI\obj\Debug\net5.0\ShopApp.WEBUI.genruntimeconfig.cache

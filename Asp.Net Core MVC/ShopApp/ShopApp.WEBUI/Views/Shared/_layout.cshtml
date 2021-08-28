@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/bootstrap/dist/css/bootstrap.min.css" />
+    @RenderSection("CSS", false)
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <title>ShopApp Demo</title>
+</head>
+<body>
+
+    @if (IsSectionDefined("MessageBox"))
+    {
+        @RenderSection("MessageBox", false)
+    }
+    else
+    {
+        <div class="alert alert-primary text-center m-0">
+            Hoşgeldiniz!
+        </div>
+    }
+
+    @await Html.PartialAsync("_navbar")
+    @RenderSection("Header", false)
+
+    <main class="my-3">
+        <div class="container">
+            @if (TempData["message"] != null)
+            {
+                <partial name="_resultMessage" model="@(TempData.Get<AlertMessage>( "message"))" />
+            }
+                    @RenderBody()
+            </div>
+    </main>
+
+
+    <footer class="fixed-bottom py-0 bg-dark text-white text-center">
+        ATA ŞAHİN | 2021
+    </footer>
+
+    <script src="~/node_modules/jquery/dist/jquery.min.js"></script>
+    @RenderSection("Scripts", false)
+
+</body>
+</html>

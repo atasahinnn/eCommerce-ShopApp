@@ -1,0 +1,17 @@
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Business.deps.json
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Business.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ref\ShopApp.Business.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Business.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.DataAccess.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Entity.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.DataAccess.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\bin\Debug\net5.0\ShopApp.Entity.pdb
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.csprojAssemblyReference.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.AssemblyInfo.cs
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.csproj.CopyComplete
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ref\ShopApp.Business.dll
+C:\Users\aatas\Desktop\Asp.Net Core MVC\ShopApp\ShopApp.Business\obj\Debug\net5.0\ShopApp.Business.pdb

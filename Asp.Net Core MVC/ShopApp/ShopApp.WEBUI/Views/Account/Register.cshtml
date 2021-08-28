@@ -1,0 +1,79 @@
+﻿@model RegisterModel
+
+@{ Layout = null; }
+
+<link href="/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/node_modules/jquery/dist/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<link rel="stylesheet" type="text/css" href="~/css/registerstyle.css">
+
+<form asp-controller="Account" asp-action="Register" method="post">
+    <div class="container register">
+        <div class="row">
+            <div class="col-md-3 register-left">
+                <img src="https://image.ibb.co/n7oTvU/logo_white.png" alt="" />
+                <h3>Hoşgeldiniz</h3>
+                <p>Shop App | 2021</p>+
+            </div>
+            <div class="col-md-9 register-right">
+                <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Bireysel</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Kurumsal</a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                        <h3 class="register-heading">Kullanıcı Üyeliği</h3>
+                        <div class="row register-form">
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+                                    <input asp-for="FirstName" type="text" class="form-control" placeholder="Ad:" />
+                                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <input asp-for="LastName" type="text" class="form-control" placeholder="Soyad:"/>
+                                    <span asp-validation-for="LastName" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <input asp-for="Password" type="password" class="form-control" placeholder="Şifre:"/>
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <input asp-for="RePassword" type="password" class="form-control" placeholder="Şifreyi Onaylayın:"/>
+                                    <span asp-validation-for="RePassword" class="text-danger"></span>
+                                </div>
+
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input asp-for="Email" type="email" class="form-control" placeholder="E-Mail:" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <input asp-for="UserName" class="form-control" placeholder="Kullanıcı Adı:" />
+                                    <span asp-validation-for="UserName" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <input asp-for="PhoneNumber" type="text" minlength="9" class="form-control" placeholder="Cep Telefonu:" />
+                                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                </div>
+                                <button type="submit" class="btnRegister btn btn-lg">Kayıt Ol</button>
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+                </div>
+            </div>
+        </div>
+</form>
